@@ -13,7 +13,7 @@
           <span class="text-green-500">Frontend</span> Developer
         </p>
         <p class="font-semibold text-center mt-3 md:mt-0 md:text-left">
-          My name is Taufik Yoga Pratama, an 18 year old
+          My name is Taufik Yoga Pratama, an 19 year old
         </p>
         <p class="font-semibold text-center md:text-left">
           frontend developer. Welcome to my portfolio
