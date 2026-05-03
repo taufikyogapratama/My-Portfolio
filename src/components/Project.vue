@@ -69,6 +69,26 @@
             >Lihat Demo</a
           >
         </div>
+        <div class="flex items-center flex-col">
+          <a
+            href="https://github.com/taufikyogapratama/computer-based-test"
+            class="cursor-pointer"
+            target="_blank"
+          >
+            <img
+              src="../assets/portfolio/computer-based-test.png"
+              alt="Website computer based test"
+              class="w-80 md:w-96 mb-3"
+            />
+            <p class="text-center">Website Computer Based Test(CBT)</p>
+          </a>
+          <a
+            href="https://computer-based-test-lilac.vercel.app/"
+            class="text-blue-500 cursor-pointer hover:underline"
+            target="_blank"
+            >Kunjungi Website</a
+          >
+        </div>
       </div>
     </div>
   </UContainer>
