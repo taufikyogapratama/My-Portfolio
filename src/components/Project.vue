@@ -89,6 +89,26 @@
             >Kunjungi Website</a
           >
         </div>
+        <div class="flex items-center flex-col">
+          <a
+            href="https://github.com/taufikyogapratama/frontend-pui-online"
+            class="cursor-pointer"
+            target="_blank"
+          >
+            <img
+              src="../assets/portfolio/klasifikasi-kematangan-tomat.png"
+              alt="Website computer based test"
+              class="w-80 md:w-96 mb-3"
+            />
+            <p class="text-center">Website Klasifikasi Kematangan Tomat</p>
+          </a>
+          <a
+            href="https://klasifikasi-kematangan-tomat-online.vercel.app/"
+            class="text-blue-500 cursor-pointer hover:underline"
+            target="_blank"
+            >Kunjungi Website</a
+          >
+        </div>
       </div>
     </div>
   </UContainer>
