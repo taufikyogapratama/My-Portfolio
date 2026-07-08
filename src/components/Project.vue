@@ -31,22 +31,22 @@
         </div>
         <div class="flex items-center flex-col">
           <a
-            href="https://github.com/taufikyogapratama/test-karang-taruna"
+            href="https://github.com/taufikyogapratama/Landingpage-kertaaji"
             class="cursor-pointer"
             target="_blank"
           >
             <img
-              src="../assets/portfolio/landing-page-karang-taruna.png"
+              src="../assets/portfolio/landingpage-karangtaruna.png"
               alt="Landing Page Karang Taruna"
               class="w-80 md:w-96 mb-3"
             />
             <p class="text-center">Landing Page Karang Taruna</p></a
           >
           <a
-            href="https://drive.google.com/file/d/1gwqlkyZK4x9v-qiI-UVT4EXkea8u04fx/view?usp=sharing"
+            href="https://karang-taruna-kertaaji.vercel.app/"
             class="text-blue-500 cursor-pointer hover:underline"
             target="_blank"
-            >Lihat Demo</a
+            >Kunjungi Website</a
           >
         </div>
         <div class="flex items-center flex-col">
